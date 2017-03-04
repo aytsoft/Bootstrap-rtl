@@ -11,7 +11,7 @@ var dev = true;
 
 
 gulp.task('styles', () => {
-    return gulp.src('assets/stylesheets/bootstrap.scss')
+    return gulp.src('assets/stylesheets/bootstrap-rtl.scss')
         .pipe($.plumber())
         .pipe($.sourcemaps.init())
         .pipe($.sass.sync({
@@ -69,9 +69,9 @@ gulp.task('serve', () => {
     });
 });
 gulp.task('compressCss', () => {
-    return gulp.src('dist/styles/bootstrap.css')
+    return gulp.src('dist/styles/bootstrap-rtl.css')
         .pipe($.cssnano({safe: true, autoprefixer: false}))
-        .pipe($.rename("dist/styles/bootstrap.min.css"))
+        .pipe($.rename("dist/styles/bootstrap-rtl.min.css"))
         .pipe(gulp.dest('./'));
 });
 gulp.task('default', () => {
