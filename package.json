@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-rtl",
-  "version": "3.3.7",
+  "version": "3.0.0",
   "description": "RTL theme for the official Sass port of Bootstrap v3.3.7",
   "main": "Gulpfile.js",
   "dependencies": {
