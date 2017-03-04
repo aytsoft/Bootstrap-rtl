@@ -40,7 +40,7 @@ Development
 
 Contributors to Bootstrap RTL must agree the license by signing on the bottom of the CONTRIBUTORS.md file. To contribute:
 
-* fork the bootstrap-rtl repository.
+* [fork the bootstrap-rtl repository](https://github.com/aytsoft/bootstrap-rtl/fork)
 * make your changes
 * first time contributors: Sign CONTRIBUTORS.md by adding your github username, full name, email address, and first contribution date. As follows: YYYY/MM/DD, Github Username, Full Name, Email Address
 * commit your changes.
