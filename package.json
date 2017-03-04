@@ -5,7 +5,9 @@
   "main": "Gulpfile.js",
   "dependencies": {
     "gulp-load-plugins": "^1.5.0",
-    "gulp": "^3.9.1",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
     "browser-sync": "^2.18.8",
     "del": "^2.2.2",
     "gulp-autoprefixer": "^3.1.1",
@@ -21,11 +23,10 @@
     "gulp-sourcemaps": "^2.4.1",
     "run-sequence": "^1.2.2"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-   "repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/aytsoft/bootstrap-rtl.git"
   },
@@ -33,7 +34,7 @@
     "bootstrap v3.3.7",
     "rtl",
     "sass",
-    "Aytan" 
+    "Aytan"
   ],
   "author": "Aytan Hamet",
   "license": "ISC",
