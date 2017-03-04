@@ -54,4 +54,4 @@ Aytan Hamet
 
 License
 -----------------
-the MIT License (MIT).
+The MIT License [(MIT)](https://github.com/aytsoft/bootstrap-rtl/blob/master/LICENSE).
