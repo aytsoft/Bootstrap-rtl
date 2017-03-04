@@ -50,6 +50,7 @@ Author
 -----------------
 Aytan Hamet
 
-+ [http://github.com/aytsoft]
++ (http://github.com/aytsoft)
+
 License
 -----------------
