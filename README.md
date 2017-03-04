@@ -1,11 +1,12 @@
 # Bootstrap v3.3.7 RTL Theme
+> Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development.
 
 **Bootstrap RTL provides simple yet robust right-to-left capability for Bootstrap v3.3.7, by employing new theming feature of it.**
 ```
 <!-- Bootstrap RTL Theme -->
 <link rel="stylesheet" href="bootstrap-rtl.css">
 ```
-> Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development.
+
 
 Quick start
 -----------------
@@ -16,11 +17,11 @@ Building bootstrap-rtl
 Install [Node.js](https://nodejs.org/en/) on your system.
 Clone this repository on your system
 ```
-$ git clone https://github.com/tinymce/tinymce.git
+$ git clone https://github.com/aytsoft/bootstrap-rtl.git
 ```
 Open a console and go to the project directory.
 ```
-$ cd tinymce/
+$ cd bootstrap-rtl/
 ```
 Install `gulp` command line tool globally.
 ```
