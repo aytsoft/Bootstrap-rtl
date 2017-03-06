@@ -6,6 +6,11 @@
 <!-- Bootstrap RTL Theme -->
 <link rel="stylesheet" href="bootstrap-rtl.css">
 ```
+or
+```HTML
+<!-- Bootstrap RTL Theme -->
+<link rel="stylesheet" href="bootstrap-rtl.min.css">
+```
 
 
 Quick start
