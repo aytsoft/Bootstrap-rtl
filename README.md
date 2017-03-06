@@ -2,7 +2,7 @@
 > Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development.
 
 **Bootstrap RTL provides simple yet robust right-to-left capability for Bootstrap v3.3.7, by employing new theming feature of it.**
-```
+```HTML
 <!-- Bootstrap RTL Theme -->
 <link rel="stylesheet" href="bootstrap-rtl.css">
 ```
